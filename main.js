@@ -88,6 +88,7 @@ program
       rimraf.sync(__dirname + '/'+tempFolderName+'/');
       opn(data,{wait:false}).then(() => {
         console.log("Stay Secure !");
+        console.log("https://snyk.io");
         process.exit()
       });
     })
