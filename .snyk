@@ -6,3 +6,6 @@ patch:
   'npm:marked:20170907':
     - marked:
         patched: '2017-11-15T05:20:34.532Z'
+  'npm:marked:20170112':
+    - marked:
+        patched: '2017-11-15T05:23:07.506Z'
