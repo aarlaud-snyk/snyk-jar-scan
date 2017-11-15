@@ -7,9 +7,9 @@ Simple CLI tool to check for coordinates in jar files and test with Snyk APIs.
 npm install -g
 
 ## Usage
-### snyk-jar <jarfolder> -o <organizationID> -t <APIkey>
+### snyk-jar \<jarfolder\> -o \<organizationID\> -t \<APIkey\>
 or if orgID and API Key set as Env variables SNYK_ORG_ID and SNYK_API_KEY
-### snyk-jar <jarfolder>
+### snyk-jar \<jarfolder\>
 
 Will generate HTML Report and open it in browser
 
