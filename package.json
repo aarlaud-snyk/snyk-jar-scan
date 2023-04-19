@@ -14,7 +14,7 @@
     "rimraf": "^2.6.2",
     "sha1-file": "^1.0.0",
     "unzip-stream": "^0.1.2",
-    "snyk": "^1.49.2"
+    "snyk": "^1.1064.0"
   },
   "name": "jar_scanner_filesystem",
   "version": "1.0.0",
